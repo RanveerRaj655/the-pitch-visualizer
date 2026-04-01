@@ -1,0 +1,22 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dynamically generated app content
+static/panels/
+
+# IDE / OS 
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log

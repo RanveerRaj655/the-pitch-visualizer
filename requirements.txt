@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+huggingface_hub
+Pillow
+nltk
+python-dotenv
+jinja2
+python-multipart
+requests
